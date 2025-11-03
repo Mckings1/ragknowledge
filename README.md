@@ -115,9 +115,9 @@ It’s a step toward building AI systems that **learn what you feed them**, with
 ---
 ## 🌍 Live Demo & Video
 
-🔹 **Deployed App:** [https://yourapp.azurewebsites.net](https://yourapp.azurewebsites.net)  
-🔹 **Demo Video:** [Watch on YouTube](https://youtube.com/your-demo-link) 
-Coming soon: Live demo and walkthrough video
+🔹 **Deployed App:** [Hybrid RAG System](https://red-moss-043776110.3.azurestaticapps.net/)  
+🔹 **Demo Video:** [Watch Here](https://youtube.com/your-demo-link) 
+Live demo and walkthrough video
 
 > The demo showcases how the system learns from uploaded company documents and URLs, retrieves relevant insights, and refines documents into improved versions — all inside Azure’s private environment.
 
